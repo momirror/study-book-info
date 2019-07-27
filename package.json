@@ -1,0 +1,12 @@
+{
+  "name": "study-book-info",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["JavaScript高级程序设计（第3版）非扫描版"],
+  "author": "",
+  "license": "ISC"
+}
